@@ -1,0 +1,61 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e1e8df; 
+}
+
+header{
+    background-color: #4a745c; 
+    color: #ffffff;
+    text-align: center;
+    padding: 40px;
+    border-radius: 6px;
+}
+
+.nome{
+    font-size:larger;
+    margin: 0;
+}
+
+.foto{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.linha{
+    display: inline;
+    margin-right: 20px;
+    color: #325035;
+}
+
+section{
+    background-color: #c4d2c9; 
+    margin: 20px;
+    padding: 20px;
+    border-radius: 7px;
+}
+
+h2{
+    color: #428b46;
+    font-size:x-large;
+    margin-bottom: 20px;
+}
+
+ul{
+    margin-left: 20px;
+    font-size:larger;
+}
+
+a{
+    color: #428b46; 
+    text-decoration: none;
+}
+
+a:visited{
+    color: #6a9c78; 
+}
+
+a:hover{
+    color: #325035;
+}
